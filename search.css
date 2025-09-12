@@ -1,0 +1,129 @@
+a
+{
+    text-decoration: none;
+    color: beige;
+}
+a:hover
+{
+    text-decoration: none;
+    color: orange;
+}
+ul
+{
+    background-color: deepskyblue;
+    height: 502px;
+    width: 300px;
+}
+li
+{
+    margin: 50px;
+    margin-top: 5PX;
+    font-size: 30px;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+img
+{
+    background-color: white;
+    margin-bottom: -80PX;
+    margin-top: -80px;
+}
+.zay
+{
+    padding: 5px;
+    margin: 5px;
+    display: left;
+    background: #fff;
+    border: 5px solid deepskyblue;
+    justify-content: center;
+}
+input::placeholder
+{
+    color:  orange;
+}
+header .blabla .zay
+{
+    font-size: 1.4em;
+    margin: 5px;
+    color: orange;
+    font-weight: 700;
+    margin-left: 800px;
+    margin-top: 30px;
+   
+}
+button
+{
+    margin-left: 20px;
+    padding-top: -20px;
+}
+
+.blabla
+{
+    /* border: 2PX dashed black; */
+    width: 100%;
+    height: 100PX;
+}
+.valencio
+{
+    background-color: deepskyblue;
+    height: 502px;
+    width: 300px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    
+
+}
+table thead tr {
+    color: orange;
+    font-weight: 700;
+    border-bottom: 3px solid deepskyblue;
+    border-top: 3px solid deepskyblue;
+    
+}
+table thead tr td {
+    font-size: 18px;
+    text-align: center;
+    color: var(--color-2);
+    
+}
+table tr {
+    
+    border-bottom: 3px solid deepskyblue;
+}
+table tbody tr td {
+    font-weight: 500;
+    font-size: 15px;
+
+}
+table tbody tr:hover {
+    background: orange;
+    
+
+}
+
+
+table tr td {
+    padding:8px;
+    color:var(--color-3);
+
+   
+}
+.za
+{
+    height: 400px;
+    width: 75%;
+    
+    flex-direction: row;
+    margin-left: 320px;
+    margin-top: -500px;
+}
+.lien
+{
+    color: deepskyblue;
+}
+.lien:hover
+{
+    color: white;
+}

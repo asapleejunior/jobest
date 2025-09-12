@@ -1,0 +1,130 @@
+a
+{
+    text-decoration: none;
+    color: beige;
+}
+a:hover
+{
+    text-decoration: none;
+    color: orange;
+}
+ul
+{
+    background-color: deepskyblue;
+    height: 502px;
+    width: 300px;
+}
+li
+{
+    margin: 50px;
+    margin-top: 5PX;
+    font-size: 30px;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+img
+{
+    background-color: white;
+    margin-bottom: -80PX;
+}
+
+.blabla
+{
+    /* border: 2PX dashed black; */
+    width: 100%;
+    height: 100PX;
+}
+.valencio
+{
+    background-color: deepskyblue;
+    height: 502px;
+    width: 300px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    
+
+}
+table thead tr {
+    color: orange;
+    font-weight: 700;
+    border-bottom: 3px solid deepskyblue;
+    border-top: 3px solid deepskyblue;
+    
+}
+table thead tr td {
+    font-size: 18px;
+    text-align: center;
+    color: var(--color-2);
+    
+}
+table tr {
+    
+    border-bottom: 3px solid deepskyblue;
+}
+table tbody tr td {
+    font-weight: 500;
+    font-size: 15px;
+
+}
+table tbody tr:hover {
+    background: orange;
+    
+
+}
+
+
+table tr td {
+    padding:8px;
+    color:var(--color-3);
+
+   
+}
+.za
+{
+    height: 400px;
+    width: 75%;
+    
+    flex-direction: row;
+    margin-left: 320px;
+    margin-top: -500px;
+}
+p{
+    margin-left: 1000px;
+    font-weight: 1000;
+}
+.lien
+{
+    color: deepskyblue;
+}
+.lien:hover
+{
+    color: white;
+}
+.aina
+{
+    color:  orange;
+    margin-left: 822px;
+    text-align: right;
+}
+.aina{
+    animation-name: slide-in;
+    animation-duration: 4s;
+    animation-delay: 1s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+}
+@keyframes slide-in
+{
+
+from
+{
+    transform: translateX(-100%);
+
+}
+to
+{
+    transform: translateX(0);
+}
+}
