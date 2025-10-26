@@ -1,2 +1,2 @@
-Frontend html css bootstrap5 sur le lien gitpage: https://asapleejunior.github.io/jobest/
-Créé en L2, destiné à faire office de frontend pour la gestion du recrutement de l'entreprise jobest
+Frontend HTML CSS Bootstrap5 on the GitPage link: https://asapleejunior.github.io/jobest/
+Created in L2, intended to serve as a frontend for managing recruitment for the company Jobest.
